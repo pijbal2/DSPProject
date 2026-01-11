@@ -6,3 +6,5 @@ the files aren't the cleanest and I had lost quite a bit of what I'd done, simpl
 
 The main file has the main transformations I had done to the pet files, as well as with files about buildings with three or more flats / two or less flats there and tne population file, which was transformed in a different file (PopulationDataTransforms). 
 All the model stuff is in the file MLPetData.py
+
+Some simple visualizations were also done in the Power BI file.
